@@ -1,2 +1,2 @@
-# Primeiro-Repositorio--Desafio-de-Projeto-1
-Desafio de Projeto 1 - Bootcamp Santander Fullstack
+# Primeiro-Repositorio-DP-1
+Desafio de Projeto DIO #1 - Santander Bootcamp Fullstack Developer
